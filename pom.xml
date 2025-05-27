@@ -9,6 +9,8 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
+
+
     <modules>
         <module>micro-gateway-service</module>
         <module>micro-eureka-service</module>
